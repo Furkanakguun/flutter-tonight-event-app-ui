@@ -69,6 +69,7 @@ class _EventDetailPageState extends State<EventDetailPage>
       child: BackdropFilter(
         filter: ImageFilter.blur(sigmaX: 22, sigmaY: 22),
         child: Scaffold(
+          backgroundColor: Colors.black,
           body: Stack(
             children: <Widget>[
               SingleChildScrollView(

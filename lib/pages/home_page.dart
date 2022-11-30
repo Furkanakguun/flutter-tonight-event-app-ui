@@ -72,6 +72,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.black,
       body: Stack(
         children: <Widget>[
           HomeBackgroundColor(opacity),
@@ -81,7 +82,8 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                buildSearchAppBar(),
+                //buildSearchAppBar(),
+                UIHelper.verticalSpace(26),
                 UIHelper.verticalSpace(16),
                 buildUpComingEventList(),
                 UIHelper.verticalSpace(16),
@@ -155,7 +157,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
     return Container(
       decoration: const BoxDecoration(
         borderRadius: BorderRadius.vertical(top: Radius.circular(16)),
-        color: Colors.white,
+        color: Colors.black,
       ),
       padding: const EdgeInsets.all(16),
       child: Column(
