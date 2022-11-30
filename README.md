@@ -1,18 +1,3 @@
 # tonight_event_app_ui
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Tonight-EventApp-UI
-# Flutter-Tonight-EventApp-UI
+![Ekran Resmi 2022-11-30 14 36 15](https://user-images.githubusercontent.com/45063194/204786308-9c8680aa-68b3-41d0-a2cd-60f2829cfff7.png)
