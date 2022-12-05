@@ -1,3 +1,5 @@
 # tonight_event_app_ui
 
-![Ekran Resmi 2022-11-30 14 36 15](https://user-images.githubusercontent.com/45063194/204786308-9c8680aa-68b3-41d0-a2cd-60f2829cfff7.png)
+
+![Ekran Resmi 2022-12-05 17 24 04](https://user-images.githubusercontent.com/45063194/205660554-c16dc75f-8437-4be8-a021-ae6a16872153.png)
+![Ekran Resmi 2022-12-05 17 25 05](https://user-images.githubusercontent.com/45063194/205660764-dcb507ee-bb19-4347-b755-20c37337c525.png)
