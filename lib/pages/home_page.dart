@@ -5,6 +5,7 @@ import 'package:tonight_event_app_ui/pages/event_detail_page.dart';
 import 'package:tonight_event_app_ui/utils/app_utils.dart';
 import 'package:tonight_event_app_ui/widgets/bottom_navigation_bar.dart';
 import 'package:tonight_event_app_ui/widgets/home_bg_color.dart';
+import 'package:tonight_event_app_ui/widgets/home_bg_icons.dart';
 import 'package:tonight_event_app_ui/widgets/nearby_event_card.dart';
 import 'package:tonight_event_app_ui/widgets/ui_helper.dart';
 import 'package:tonight_event_app_ui/widgets/upcoming_event_card.dart';
@@ -75,7 +76,8 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
       backgroundColor: Colors.black,
       body: Stack(
         children: <Widget>[
-          HomeBackgroundColor(opacity),
+          //HomeBackgroundColor(opacity),
+          HomeBackgroundIcons(opacity),
           SingleChildScrollView(
             controller: scrollController,
             padding: const EdgeInsets.only(top: 100),
