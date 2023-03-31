@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
+//fnt awesome deoreciated
 class HomePageButtonNavigationBar extends StatelessWidget {
   final Function(int) onTap;
   final int currentIndex;
